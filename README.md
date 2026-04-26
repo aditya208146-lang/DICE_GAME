@@ -30,7 +30,7 @@ Modular programming
 
 1---Clone the repository:
 
-git clone https://github.com/your-username/dice-game.git
+https://github.com/aditya208146-lang/DICE_GAME
 
 2---Navigate to the project folder:
 
